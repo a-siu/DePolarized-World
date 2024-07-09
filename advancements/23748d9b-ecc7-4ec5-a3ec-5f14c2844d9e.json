@@ -1,0 +1,365 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-07-08 22:11:25 +0800"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-07-08 22:11:25 +0800"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-07-08 22:11:25 +0800"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2024-07-08 22:11:25 +0800"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/sinangag_from_cooking_pot": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/sugar_brown_from_cooking_pot": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/hopia_munggo_raw_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/ensaymada_raw_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/ensaymada_ube_raw_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/minecraft/smelting/sugar_brown_from_sugar_from_smelting": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/milk_powder_from_milk_bottle_from_cooking_pot": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:main/root": {
+    "criteria": {
+      "ud_root": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/chocolate_pie_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/leche_flan_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/milk_tea_ube_single_from_cooking_pot": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800",
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/pandesal_raw_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/raw_polvorone_pinipig_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/minecraft/smelting/smoking/sugar_brown_from_sugar_from_smoking": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/ube_cake_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/apple_pie_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/condensed_milk_bottle_from_milk_bucket_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/raw_polvorone_cc_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/raw_polvorone_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/tocino_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/cake_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/hopia_ube_raw_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/pumpkin_pie_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/ubesdelight/baking_mat/pandesal_ube_raw_from_baking_mat": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/minecraft/smelting/campfire_cooking/sugar_brown_from_sugar_from_campfire_cooking": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/chicken_inasal_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/raw_polvorone_ube_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/milk_tea_ube_multiple_from_cooking_pot": {
+    "criteria": {
+      "has_sugar": "2024-07-08 22:21:29 +0800",
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "ubesdelight:recipes/food/farmersdelight/cooking/condensed_milk_bottle_from_milk_bottle_from_cooking_pot": {
+    "criteria": {
+      "has_tea_ingredients_sweet_weak": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-07-08 22:21:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-07-08 22:21:35 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-07-08 22:21:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2024-07-08 23:09:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2024-07-08 23:09:40 +0800"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_tool": "2024-07-08 23:09:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-07-08 23:10:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-07-08 23:10:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-07-08 23:10:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-07-08 23:10:58 +0800"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/root": {
+    "criteria": {
+      "always": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_sugar": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_sugar": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_sugar": "2024-07-09 10:18:41 +0800"
+    },
+    "done": true
+  },
+  "create_dd:root": {
+    "criteria": {
+      "0": "2024-07-09 11:43:39 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
